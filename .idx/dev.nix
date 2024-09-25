@@ -12,6 +12,8 @@
     # pkgs.nodejs_20
     # pkgs.nodePackages.nodemon
     # pkgs.python311Packages.pip
+    # pkgs.sudo
+    # pkgs.doas-sudo-shim
   ];
 
   # Sets environment variables in the workspace
