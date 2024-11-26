@@ -1,2 +1,1 @@
-tkinter
-pygame
+pygame==2.6.1
